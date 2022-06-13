@@ -1,6 +1,7 @@
 # Node, Express, React.js, Graphql and MongoDB CRUD Web Application
 
-After clone/download the repo goto client directory in commend line and run npm i to install nodemodules
+After clone/download the repo goto server directory in commend line and run npm i to install nodemodules
+Goto client directory in commend line and run npm i to install nodemodules
 
 # Run Client
 
